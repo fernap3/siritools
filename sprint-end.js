@@ -1,3 +1,5 @@
+process.chdir(__dirname);
+
 const dotenv = require("dotenv");
 dotenv.config();
 const sql = require("@fernap3/sql");
