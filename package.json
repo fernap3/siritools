@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@fernap3/sql": "^1.0.0",
+    "@fernap3/sql": "^1.0.1",
     "dotenv": "^8.0.0"
   }
 }
